@@ -11,9 +11,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizsimx&show_icons=true&locale=en" alt="azizsimx" /></p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=azizsimx&theme=highcontrast" alt="GitHub Streak" />
-</p>
 
 
 
