@@ -11,6 +11,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizsimx&show_icons=true&locale=en" alt="azizsimx" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azizsimx)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azizsimx" alt="azizsimx" />
+</p>
+
 
 
